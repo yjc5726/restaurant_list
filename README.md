@@ -9,23 +9,20 @@
 **1. 將專案複製到本機(兩種方法擇一)**<br /><br />
 
  (1)打開終端機輸入
- `git clone https://github.com/yjc5726/restaurant_list.git`
+ `git clone https://github.com/yjc5726/restaurant_list.git`<br /><br />
  (2)點選 Download ZIP下載
  
 **2. 進入專案資料夾安裝工具包**<br /><br />
-
 打開終端機輸入
 ```
 npm install
 ```
 **3.執行專案**<br /><br />
-
 打開終端機輸入
 ```
 npm run dev
 ```
 **4.瀏覽器瀏覽**<br /><br />
-
 打開瀏覽器在網址列輸入localhost:3000即可瀏覽
 ### 功能描述 (features)
 1. 查看八家餐廳的評測與簡介
